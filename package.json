@@ -31,6 +31,6 @@
   "homepage": "https://github.com/nsat/jspredict",
   "dependencies": {
     "moment": "^2.10.6",
-    "satellite.js": "^1.2.0"
+    "satellite.js": "^1.3.0"
   }
 }
